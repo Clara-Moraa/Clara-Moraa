@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Clara</h1>
 <h3 align="center">Im a passionate Software Developer</h3>
-<img align="right" alt="coding" width="4000" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw0K_bHvu-8epQ2a7Nh1GBtN&ust=1682156795918000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCW5cPYuv4CFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="4000" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcoder_girl&psig=AOvVaw1iWBk_gbRAwlNDaLe3BpDA&ust=1682340063148000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDzyqKDwP4CFQAAAAAdAAAAABAE ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clara-moraa&label=Profile%20views&color=0e75b6&style=flat" alt="clara-moraa" /> </p>
 
