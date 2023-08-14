@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clara-moraa&label=Profile%20views&color=0e75b6&style=flat" alt="clara-moraa" /> </p>
 
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **C,Shell scripting**
+- 💬 Ask me about **C,python,Shell scripting**
 
-- 📫 How to reach me **moraacalaine@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
