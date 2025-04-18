@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **claramoraa2@gmail.com**
 
-- ⚡ Fun fact **I enjoy creating my own world using my own rules**
+- ⚡ Fun fact **🦋 Butterflies can taste with their feet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
